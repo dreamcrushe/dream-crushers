@@ -1,0 +1,478 @@
+*{margin: 0px;padding: 0px;box-sizing: border-box;text-transform: capitalize;}
+.new{color: white!important;font-size: 20px;}.new:hover{color: gold !important;border-bottom:3px solid green;}
+#h{
+	font-size: 80px;
+	position: absolute;
+	bottom: 30%;
+	left: 40%;
+	display: none;
+}
+
+#gallery{
+	background-image: url(images/5.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery:hover > #h{
+	display: block;
+}
+#gallery:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery1{
+	background-image: url(images/6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery1:hover > #h{
+	display: block;
+}
+#gallery1:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery2{
+	background-image: url(images/7.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery2:hover > #h{
+	display: block;
+}
+#gallery2:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery3{
+	background-image: url(images/8.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery3:hover > #h{
+	display: block;
+}
+#gallery3:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery4{
+	background-image: url(images/9.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery4:hover > #h{
+	display: block;
+}
+#gallery4:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery5{
+	background-image: url(images/10.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery5:hover > #h{
+	display: block;
+}
+#gallery5:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery6{
+	background-image: url(images/11.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery6:hover > #h{
+	display: block;
+}
+#gallery6:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery7{
+	background-image: url(images/12.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery7:hover > #h{
+	display: block;
+}
+#gallery7:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery8{
+	background-image: url(images/13.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery8:hover > #h{
+	display: block;
+}
+#gallery8:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery9{
+	background-image: url(images/14.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery9:hover > #h{
+	display: block;
+}
+#gallery9:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery10{
+	background-image: url(images/15.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery10:hover > #h{
+	display: block;
+}
+#gallery10:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery11{
+	background-image: url(images/16.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery11:hover > #h{
+	display: block;
+}
+#gallery11:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery:hover{
+	box-shadow: 0px 0px 70px;
+	 transform: skew(4deg);
+	}#gallery1:hover{
+		box-shadow: 0px 0px 70px;
+		 transform: skew(4deg);
+		}#gallery2:hover{
+			box-shadow: 0px 0px 70px;
+			 transform: skew(4deg);
+			} #gallery3:hover{
+				box-shadow: 0px 0px 70px;
+				 transform: skew(4deg);
+				}
+					#gallery4:hover{
+						box-shadow: 0px 0px 50px;
+						transform: skew(4deg);
+						} #gallery5:hover{
+					box-shadow: 0px 0px 70px;
+					 transform: skew(4deg);
+					} #gallery6:hover{
+						box-shadow: 0px 0px 70px;
+						 transform: skew(4deg);
+						} #gallery7:hover{
+							box-shadow: 0px 0px 70px;
+							 transform: skew(4deg);
+							} #gallery8:hover{
+								box-shadow: 0px 0px 70px;
+								 transform: skew(4deg);
+								} #gallery9:hover{
+									box-shadow: 0px 0px 70px;
+									 transform: skew(4deg);
+									} #gallery10:hover{
+										box-shadow: 0px 0px 70px;
+										 transform: skew(4deg);
+										}#gallery11:hover{
+											box-shadow: 0px 0px 50px;
+											}
+
+.jum{
+	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), url(images/1.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+#gallery12{
+	background-image: url(image/6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery12:hover > #h{
+	display: block;
+}
+#gallery12:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery13{
+	background-image: url(image/7.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery13:hover > #h{
+	display: block;
+}
+#gallery13:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery14{
+	background-image: url(image/8.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery14:hover > #h{
+	display: block;
+}
+#gallery14:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery15{
+	background-image: url(image/9.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery15:hover > #h{
+	display: block;
+}
+#gallery15:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery16{
+	background-image: url(image/10.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery16:hover > #h{
+	display: block;
+}
+#gallery16:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery17{
+	background-image: url(image/11.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery17:hover > #h{
+	display: block;
+}
+#gallery17:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery18{
+	background-image: url(image/12.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery18:hover > #h{
+	display: block;
+}
+#gallery18:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery19{
+	background-image: url(image/13.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery19:hover > #h{
+	display: block;
+}
+#gallery19:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery20{
+	background-image: url(image/14.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery20:hover > #h{
+	display: block;
+}
+#gallery20:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery21{
+	background-image: url(image/15.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery21:hover > #h{
+	display: block;
+}
+#gallery21:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery22{
+	background-image: url(image/16.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery22:hover > #h{
+	display: block;
+}
+#gallery22:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery23{
+	background-image: url(image/16.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 240px;
+	border-radius: 15px;
+	border: 3px solid white;
+}
+#gallery23:hover > #h{
+	display: block;
+}
+#gallery23:hover{
+	background: red;
+	transition: 3s;
+}
+#gallery12:hover{
+	box-shadow: 0px 0px 70px;
+	 transform: skew(4deg);
+	}#gallery13:hover{
+		box-shadow: 0px 0px 70px;
+		 transform: skew(4deg);
+		}#gallery14:hover{
+			box-shadow: 0px 0px 70px;
+			 transform: skew(4deg);
+			} #gallery15:hover{
+				box-shadow: 0px 0px 70px;
+				 transform: skew(4deg);
+				}
+					#gallery16:hover{
+						box-shadow: 0px 0px 50px;
+						transform: skew(4deg);
+						} #gallery17:hover{
+					box-shadow: 0px 0px 70px;
+					 transform: skew(4deg);
+					} #gallery18:hover{
+						box-shadow: 0px 0px 70px;
+						 transform: skew(4deg);
+						} #gallery19:hover{
+							box-shadow: 0px 0px 70px;
+							 transform: skew(4deg);
+							} #gallery20:hover{
+								box-shadow: 0px 0px 70px;
+								 transform: skew(4deg);
+								} #gallery21:hover{
+									box-shadow: 0px 0px 70px;
+									 transform: skew(4deg);
+									} #gallery22:hover{
+										box-shadow: 0px 0px 70px;
+										 transform: skew(4deg);
+										}#gallery23:hover{
+											box-shadow: 0px 0px 50px;
+											}
